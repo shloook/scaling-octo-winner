@@ -4,9 +4,38 @@ This is a Next.js project bootstrapped with create-next-app.
 
 Getting Started
 
+# WallsF1
+
+A Next.js app bootstrapped with create-next-app.
+
+## Prerequisites
+
+- Node.js >= 16.8 (Node 18+ recommended)
+- npm, yarn, pnpm or bun installed
+
+## Quick start
+
+Install dependencies:
+
+```sh
+# npm
+npm install
+
+# or yarn
+yarn
+
+# or pnpm
+pnpm install
+
+# or bun
+bun install
+```
+
+Getting Started
+
 First, run the development server:
 
-<npm run dev>
+npm run dev
 
 # or
 
